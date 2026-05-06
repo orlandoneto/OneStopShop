@@ -7,6 +7,10 @@
 
 Production-style e-commerce architecture with storefront, seller dashboard, checkout, and payment integrations.
 
+<p align="center">
+  <img src="./.github/images/home.jpeg" alt="OneStopShop storefront preview" width="760" />
+</p>
+
 ## Language / Idioma
 - [English](#english)
 - [Portugues](#portugues)
